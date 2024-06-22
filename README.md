@@ -28,7 +28,7 @@ MySQL - Store the signup and login details.
 
 
 HOW TO RUN
-git clone https://github.com/kamal01singh/brewery-review-system.git
+git clone https://github.com/sapnaacharya25/Brewery-Review-System
 3rd party api https://www.openbrewerydb.org/documentation 
 Installing all dependencies
 npm i
